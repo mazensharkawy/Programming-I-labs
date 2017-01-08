@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476389381 source:d:\koleya\programming i\population\main.c
+	<stdlib.h>
+	<stdio.h>
+

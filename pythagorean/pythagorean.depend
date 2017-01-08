@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1476424043 source:d:\koleya\programming i\pythagorean\main.c
+	<stdio.h>
+	<stdlib.h>
+
